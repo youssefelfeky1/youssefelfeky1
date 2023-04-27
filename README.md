@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef ELfeky</h1>
-<h3 align="center">I'm an Android App Developer</h3>
+<h3 align="center">I'm an Android app developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefelfeky1&label=Profile%20views&color=0e75b6&style=flat" alt="youssefelfeky1" /> </p>
 
