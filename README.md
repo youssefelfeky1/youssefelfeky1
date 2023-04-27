@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h1 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width = "30px" hieght = "30px" alt="youssefelfeky1" /> 
 , I'm Youssef ELfeky</h1>
 <h3 align="center">I'm an Android app developer</h3>
@@ -9,7 +12,9 @@
 - 💬 Ask me about **Android**
 
 - 📫 How to reach me **youssefelfeky83@gmail.com**
-<img align="right" alt="Coding" width="400" src="https://www.2excel.com.au/wp-content/uploads/2022/05/Mobileapp.gif">
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/youssef-elfeky100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef-elfeky100" height="30" width="40" /></a>
