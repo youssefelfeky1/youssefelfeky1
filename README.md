@@ -24,5 +24,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefelfeky1&show_icons=true&locale=en&layout=compact" alt="youssefelfeky1" /></p>
+<details> 
+  <summary> GitHub Profile Stats</summary>
+<p align="center">
+<a href="https://github.com/islamelhady">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=youssefelfeky1&show_icons=true&theme=gotham&include_all_commits=true&cache_seconds=1800&show_owner=true&title_color=5fd8f9&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=youssefelfeky1&layout=compact&title_color=5fd8f9&show_owner=true&langs_count=8&theme=gotham"/>
+</a>
+</p>
+</details>
 
