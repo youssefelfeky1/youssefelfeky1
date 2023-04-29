@@ -9,7 +9,6 @@
 
 
 
-- 💬 Ask me about **Android**
 
 - 📫 How to reach me **youssefelfeky83@gmail.com**
 <div align="center">
