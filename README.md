@@ -15,9 +15,7 @@
 
 
 - 📫 How to reach me **youssefelfeky83@gmail.com**
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" width="600" height="400"/>
-</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/youssef-elfeky100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef-elfeky100" height="30" width="40" /></a>
