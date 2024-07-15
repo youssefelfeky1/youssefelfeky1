@@ -4,10 +4,6 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" width = "30px" hieght = "30px" alt="youssefelfeky1" /> 
 , I'm Youssef ELfeky</h1>
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=581&lines=Undergraduate+computer+engineer+;Competitive+Programmer" alt="Typing SVG" />
-</a>
-</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefelfeky1&label=Profile%20views&color=0e75b6&style=flat" alt="youssefelfeky1" /> </p>
 
