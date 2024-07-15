@@ -23,9 +23,6 @@ My current focus is on mastering modern development practices, including:
 - Jetpack Compose: A modern, reactive UI toolkit for building native Android apps in Kotlin.
 - Clean Architecture: A software design pattern that separates the concerns of an app into distinct layers, making it easier to maintain and test.
 
-<h3>📈 Learning and Growing</h3>
-Continuous learning is a top priority for me, and I have plans to delve into Flutter and Dart in the near future.
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
