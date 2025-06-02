@@ -1,13 +1,19 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
+  <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" width = "30px" hieght = "30px" alt="youssefelfeky1" /> 
+, I'm Youssef ELfeky
+  </h1>
+  <a href="https://github.com/youssefelfeky1" align="center"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=26&pause=1000&width=435&lines=I+am+primarily+interested+in+Android+Development." alt="Typing SVG" /></a>
+  
+   <img src="https://user-images.githubusercontent.com/61025448/217821684-c850eafe-8dfa-4308-a2e3-eb5fce9a8268.gif" width="140"><br><br>
+  
+  <kbd>
+    <a style="border:5px white" border="5px white" href="https://github.com/youssefelfeky1"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=3500&pause=750&color=72C9E4&center=true&vCenter=true&width=435&lines=Abracadabra;Bibbidi-Bobbidi-Boo;Sim+Sala+Bim;Shazam;Hocus+Pocus;Alakazam" alt="Typing SVG" /></a>
+  </kbd>
 </div>
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" width = "30px" hieght = "30px" alt="youssefelfeky1" /> 
-, I'm Youssef ELfeky</h1>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefelfeky1&label=Profile%20views&color=0e75b6&style=flat" alt="youssefelfeky1" /> </p>
 
-- I like android development  <img  align=center src="https://user-images.githubusercontent.com/26017543/213809364-ed620f4b-dff2-4fef-9221-b831eb6a9502.png" alt="Brain" width="36" height="36" /> 
+- I ❤️ android development  <img  align=center src="https://user-images.githubusercontent.com/26017543/213809364-ed620f4b-dff2-4fef-9221-b831eb6a9502.png" alt="Brain" width="36" height="36" /> 
 
 
 - 📫 How to reach me **youssefelfeky83@gmail.com**
@@ -38,6 +44,12 @@ My current focus is on mastering modern development practices, including:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=youssefelfeky1&layout=compact&title_color=5fd8f9&show_owner=true&langs_count=8&theme=gotham"/>
 </a>
 </p>
+  <p align="center">
+   <a href="https://github.com/youssefelfeky1">
+     <img alt="streaks" src="http://github-readme-streak-stats.herokuapp.com?user=youssefelfeky1&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
+  </a>
+  <img src="https://user-images.githubusercontent.com/82146140/205825785-6a82e3c6-2de9-418f-9d34-491393b33b72.gif" width="200px"/>
+  </p>
 </details>
 
 
@@ -50,4 +62,8 @@ My current focus is on mastering modern development practices, including:
  
 <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/D3vil0per/D3vil0per/main/.images/footer.svg" width="100%">
-<!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
+  <p align = "center">
+    <img src="https://raw.githubusercontent.com/Long18/Long18/refs/heads/dev/assets/footers/cat_on_line.svg?sanitize=true" alt="Footer Image" />
+  </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Thank+You+%3AD;See+You+Again+%5E_%5E;Bye+Bye+!;Are+u+still+reading!)](https://github.com/youssefelfeky1)
