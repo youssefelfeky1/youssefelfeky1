@@ -3,12 +3,6 @@
 , I'm Youssef ELfeky
   </h1>
   <a href="https://github.com/youssefelfeky1" align="center"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=26&pause=1000&width=435&lines=I+am+primarily+interested+in+Android+Development." alt="Typing SVG" /></a>
-  
-   <img src="https://user-images.githubusercontent.com/61025448/217821684-c850eafe-8dfa-4308-a2e3-eb5fce9a8268.gif" width="140"><br><br>
-  
-  <kbd>
-    <a style="border:5px white" border="5px white" href="https://github.com/youssefelfeky1"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=3500&pause=750&color=72C9E4&center=true&vCenter=true&width=435&lines=Abracadabra;Bibbidi-Bobbidi-Boo;Sim+Sala+Bim;Shazam;Hocus+Pocus;Alakazam" alt="Typing SVG" /></a>
-  </kbd>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefelfeky1&label=Profile%20views&color=0e75b6&style=flat" alt="youssefelfeky1" /> </p>
