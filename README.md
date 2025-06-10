@@ -60,4 +60,3 @@ My current focus is on mastering modern development practices, including:
     <img src="https://raw.githubusercontent.com/Long18/Long18/refs/heads/dev/assets/footers/cat_on_line.svg?sanitize=true" alt="Footer Image" />
   </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Thank+You+%3AD;See+You+Again+%5E_%5E;Bye+Bye+!;Are+u+still+reading!)](https://github.com/youssefelfeky1)
