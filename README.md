@@ -7,18 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefelfeky1&label=Profile%20views&color=0e75b6&style=flat" alt="youssefelfeky1" /> </p>
 
-- I ❤️ android development  <img  align=center src="https://user-images.githubusercontent.com/26017543/213809364-ed620f4b-dff2-4fef-9221-b831eb6a9502.png" alt="Brain" width="36" height="36" /> 
-
 
 - 📫 How to reach me **youssefelfeky83@gmail.com**
-
-
-<h3>💻 Focused on Modern Development Practices</h3>
-My current focus is on mastering modern development practices, including:
-
-- Jetpack Compose: A modern, reactive UI toolkit for building native Android apps in Kotlin.
-- Clean Architecture: A software design pattern that separates the concerns of an app into distinct layers, making it easier to maintain and test.
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,14 +25,13 @@ My current focus is on mastering modern development practices, including:
 <a href="https://github.com/youssefelfeky1">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=youssefelfeky1&show_icons=true&theme=gotham&include_all_commits=true&cache_seconds=1800&show_owner=true&title_color=5fd8f9&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=youssefelfeky1&layout=compact&title_color=5fd8f9&show_owner=true&langs_count=8&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=youssefelfeky1&layout=compact&title_color=5fd8f9&show_owner=true&theme=gotham"/>
 </a>
 </p>
   <p align="center">
    <a href="https://github.com/youssefelfeky1">
      <img alt="streaks" src="http://github-readme-streak-stats.herokuapp.com?user=youssefelfeky1&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
   </a>
-  <img src="https://user-images.githubusercontent.com/82146140/205825785-6a82e3c6-2de9-418f-9d34-491393b33b72.gif" width="200px"/>
   </p>
 </details>
 
